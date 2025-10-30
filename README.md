@@ -1,17 +1,17 @@
 # Assitence
 # Sistema de Asistencia por Reconocimiento Facial (UNEMI)
 
-[cite_start]Este proyecto es un aplicativo web desarrollado en Python y Django como parte de la Práctica #3 [cite: 9] [cite_start]de la asignatura "Construcción de Software"[cite: 15]. El sistema implementa un control de asistencia en tiempo real utilizando OpenCV y la biblioteca `face_recognition` para validar la identidad de un usuario logueado contra su foto de perfil registrada.
+[cite_start]Este proyecto es un aplicativo web desarrollado en Python y Django como parte de la Práctica #3 de la asignatura "Construcción de Software"[cite: 15]. El sistema implementa un control de asistencia en tiempo real utilizando OpenCV y la biblioteca `face_recognition` para validar la identidad de un usuario logueado contra su foto de perfil registrada.
 
 [cite_start]El objetivo principal es cumplir con la guía de práctica: "Diseñar y desarrollar un aplicativo web en Django que capture imágenes o video en tiempo real, los procese con OpenCV, detecte o reconozca elementos específicos y muestre resultados útiles al usuario..."[cite: 35].
 
 ## Contexto Académico
 
-* [cite_start]**Universidad:** Universidad Estatal de Milagro (UNEMI) [cite: 2]
-* [cite_start]**Facultad:** Facultad Ciencias E Ingeniería [cite: 13]
-* [cite_start]**Carrera:** Software [cite: 14]
-* [cite_start]**Asignatura:** Construcción de Software [CONSOF] [cite: 14, 15]
-* **Docente de Práctica:** Ing. [cite_start]Almache Sanisaca Mariana Madeleine [cite: 20]
+* [cite_start]**Universidad:** Universidad Estatal de Milagro (UNEMI) 
+* [cite_start]**Facultad:** Facultad Ciencias E Ingeniería
+* [cite_start]**Carrera:** Software 
+* [cite_start]**Asignatura:** Construcción de Software 
+* **Docente de Práctica:** Ing. Almache Sanisaca Mariana Madeleine 
 
 ## Características Principales
 
@@ -27,9 +27,9 @@
 ## Tecnologías Utilizadas
 
 ### Backend
-* [cite_start]**Python 3.x** [cite: 60]
-* [cite_start]**Django** (Framework Web) [cite: 61]
-* [cite_start]**OpenCV** (Para captura de video y procesamiento de imagen) [cite: 62]
+* [cite_start]**Python 3.x** 
+* [cite_start]**Django** (Framework Web) 
+* [cite_start]**OpenCV** (Para captura de video y procesamiento de imagen)
 * **face_recognition** (Para el reconocimiento facial y comparación)
 * **dlib** (Dependencia de `face_recognition`)
 * **Numpy** (Para operaciones de imagen)
